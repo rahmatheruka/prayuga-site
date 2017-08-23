@@ -1,0 +1,1 @@
+var BASE_URL_API = 'http://localhost/prayuga-site/api.php';

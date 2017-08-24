@@ -19,7 +19,7 @@
 <!-- Fixed navbar -->
 <header class="navbar navbar-expand navbar-light flex-column flex-md-row bd-navbar">
   <a class="navbar-brand mr-0 mr-md-2" href="/" aria-label="Bootstrap">
-    <img src="assets/images/logo-color.png">
+    <img src="assets/images/logo-color2.png">
   </a>
   <ul class="navbar-nav flex-row ml-md-auto d-none d-md-flex">
     <li class="nav-item dropdown">
@@ -32,18 +32,13 @@
     </li>
 
     <li class="nav-item">
-      <a class="nav-link p-2" href="https://github.com/twbs/bootstrap" target="_blank" rel="noopener" aria-label="GitHub">
+      <a class="nav-link p-2" href="https://github.com/rahmatheruka/prayuga" target="_blank" rel="noopener" aria-label="GitHub">
         <i class="fa fa-github"></i>
       </a>
     </li>
     <li class="nav-item">
-      <a class="nav-link p-2" href="https://twitter.com/getbootstrap" target="_blank" rel="noopener" aria-label="Twitter">
+      <a class="nav-link p-2" href="https://twitter.com/prayuga-library" target="_blank" rel="noopener" aria-label="Twitter">
         <i class="fa fa-twitter"></i>
-      </a>
-    </li>
-    <li class="nav-item">
-      <a class="nav-link p-2" href="https://bootstrap-slack.herokuapp.com" target="_blank" rel="noopener" aria-label="Slack">
-      	<i class="fa fa-slack"></i>
       </a>
     </li>
   </ul>
@@ -77,7 +72,7 @@
 	<div class="container">
 		 <i class="fa fa-github"></i> 
 		 <span>Feel free to become contrbutors, let's be friend</span>
-		 <a class="btn">View Source</a>
+		 <a href="https://github.com/rahmatheruka/prayuga" target="_blank" class="btn">View Source</a>
 		 <div class="clear"></div>
 	</div>
 </footer>
